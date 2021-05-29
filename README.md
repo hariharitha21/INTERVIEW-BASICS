@@ -13,3 +13,4 @@ The list of questions in this is:
 6. To check whether a number is prime or not.
 7. Insertion Sort.
 8. Bubble sort
+9. Selection sort
