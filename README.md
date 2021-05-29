@@ -12,3 +12,4 @@ The list of questions in this is:
 5. How do you find duplicate numbers in an array if it contains multiple duplicates?
 6. To check whether a number is prime or not.
 7. Insertion Sort.
+8. Bubble sort
