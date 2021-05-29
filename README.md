@@ -10,4 +10,5 @@ The list of questions in this is:
 3. How do you find the largest and smallest number in an unsorted integer array?
 4. How do you find all pairs of an integer array whose sum is equal to a given number?
 5. How do you find duplicate numbers in an array if it contains multiple duplicates?
-6. To check whether a number is prime or not
+6. To check whether a number is prime or not.
+7. Insertion Sort.
