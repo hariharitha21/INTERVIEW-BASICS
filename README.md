@@ -14,3 +14,4 @@ The list of questions in this is:
 7. Insertion Sort.
 8. Bubble sort
 9. Selection sort
+10. Reverse the elements of an array.
