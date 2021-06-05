@@ -15,3 +15,5 @@ The list of questions in this is:
 8. Bubble sort
 9. Selection sort
 10. Reverse the elements of an array.
+11. Reverse a string.
+12. 
