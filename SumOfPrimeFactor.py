@@ -1,7 +1,7 @@
 n=int(input())
 su=0
 arr=[]
-for i in range (2,n):
+for i in range (2,n+1):
     if n%i==0:
         arr.append(i)
 for i in arr:
