@@ -18,3 +18,4 @@ The list of questions in this is:
 11. Reverse a string.
 12. Leap year.
 13. Write a program to print Fibonacci Series
+14. Sum of prime factors.
