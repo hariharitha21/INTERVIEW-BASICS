@@ -19,3 +19,4 @@ The list of questions in this is:
 12. Leap year.
 13. Write a program to print Fibonacci Series
 14. Sum of prime factors.
+15.Check whether a given number is an Amstrong Number or not.
